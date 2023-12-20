@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "140102930205",
+    "firebase_url": "https://elektra-rajeev.firebaseio.com",
+    "project_id": "elektra-rajeev",
+    "storage_bucket": "elektra-rajeev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140102930205:android:b01e11d47befdfd79fdbf4",
+        "android_client_info": {
+          "package_name": "com.example.elektra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140102930205-thbrmd52q8qd9f9dtprhs9hhs3ouv8v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elektra",
+            "certificate_hash": "0da60fcef85f094e666599792096b94a7434bdc7"
+          }
+        },
+        {
+          "client_id": "140102930205-othuahqu3o5f1itl0aunt75jhdn61t9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2xpcYqdgA7WC8H8XpejAfi8LYlwH_W9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140102930205-othuahqu3o5f1itl0aunt75jhdn61t9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140102930205:android:7273d7bf98dd2fca9fdbf4",
+        "android_client_info": {
+          "package_name": "com.mydemo.elektra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140102930205-p3agobo53s5sc4ehm85rldpogfi29v0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mydemo.elektra",
+            "certificate_hash": "4e3d00754a2859afbc885a11b75c993b90d68af2"
+          }
+        },
+        {
+          "client_id": "140102930205-9vc24vjbkib294tvmp5gi3mj655vepco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mydemo.elektra",
+            "certificate_hash": "1fcb2c6e4158bc718d0741475835b405137698b5"
+          }
+        },
+        {
+          "client_id": "140102930205-htkkid11hos342rtqt63j2t6den539iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mydemo.elektra",
+            "certificate_hash": "0da60fcef85f094e666599792096b94a7434bdc7"
+          }
+        },
+        {
+          "client_id": "140102930205-othuahqu3o5f1itl0aunt75jhdn61t9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2xpcYqdgA7WC8H8XpejAfi8LYlwH_W9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140102930205-othuahqu3o5f1itl0aunt75jhdn61t9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
