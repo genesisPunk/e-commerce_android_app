@@ -15,8 +15,17 @@ Check-out / payment functionality is not integrated.
 * Node js server for hosting APIs
 * Mongo DB for database (product details)
 
-<img width="391" alt="mobile_shots" src="https://github.com/genesisPunk/e-commerce_android_app/blob/main/screenshots/login.jpg?raw=true">
-<img width="391" alt="mobile_shots" src="https://github.com/genesisPunk/e-commerce_android_app/blob/main/screenshots/main_screen.jpg?raw=true">
+
+## Technology stack
+
+* Login screen with otp login
+
+<img width="200" alt="mobile_shots" src="https://github.com/genesisPunk/e-commerce_android_app/blob/main/screenshots/login.jpg?raw=true">
+
+
+* Main screen with product lists
+
+<img width="200" alt="mobile_shots" src="https://github.com/genesisPunk/e-commerce_android_app/blob/main/screenshots/main_screen.jpg?raw=true">
 
 
 ## 🔗 Links
