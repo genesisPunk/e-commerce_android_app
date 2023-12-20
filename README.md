@@ -10,10 +10,10 @@ Check-out / payment functionality is not integrated.
 
 ## Technology stack
 
-Mobile app: Android (Java)
-Firebase for login and users details
-Node js server for hosting APIs
-Mongo DB for database (product details)
+- Mobile app: Android (Java)
+- Firebase for login and users details
+- Node js server for hosting APIs
+- Mongo DB for database (product details)
 
 <img width="391" alt="mobile_shots" src="https://github.com/genesisPunk/e-commerce_android_app/blob/main/screenshots/login.jpg?raw=true">
 <img width="391" alt="mobile_shots" src="https://github.com/genesisPunk/e-commerce_android_app/blob/main/screenshots/main_screen.jpg?raw=true">
